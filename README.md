@@ -46,15 +46,17 @@ This structured approach ensures comprehensive and chronological documentation a
 
 ## 🔧 Installation
 
-1. Clone the repository:
-   '''bash
+1. Clone the repository (git bash):
+   ```
    git clone https://github.com/Khushi-Sorathia/Forensics-investigation.git
    cd Forensics-investigation
-'''
-2. Install dependencies:
-'''pip install -r requirements.txt'''
 
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
 3. Launch the application using Streamlit:
-   '''streamlit run app.py'''
-   
+```
+   streamlit run app.py
+   ```
 5. Ensure the MySQL server is running and credentials are properly set in your db_config.py.
